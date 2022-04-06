@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/olekristianskjong.lwc-l1njlgbx-fork-l1njqlv8",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8PTfZf3cog70sdQFgaxt --open"
+  }
+}
